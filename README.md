@@ -10,3 +10,4 @@ A repository listing games that can be played on a PDF file. If the game is a po
 # Original games
 - [Undying Dusk](https://lucas-c.itch.io/undying-dusk)/[Github](https://github.com/Lucas-C/undying-dusk)
 - [Alone on Rivers Red](https://faeexe.itch.io/alone-on-rivers-red)
+- [My last sandwich](https://vsioneithr.itch.io/my-last-sandwich)
