@@ -10,4 +10,7 @@ A repository listing games that can be played on a PDF file. If the game is a po
 # Original games
 - [Undying Dusk](https://lucas-c.itch.io/undying-dusk)/[Github](https://github.com/Lucas-C/undying-dusk)
 - [Alone on Rivers Red](https://faeexe.itch.io/alone-on-rivers-red)
-- [My last sandwich](https://vsioneithr.itch.io/my-last-sandwich)
+- [My Last Sandwich](https://vsioneithr.itch.io/my-last-sandwich)
+- [Chicken Wants to Cross the River](https://vsioneithr.itch.io/chicken-wants-to-cross-the-river)
+- [Frog's Adventure to Home](https://vsioneithr.itch.io/frogs-adventure-to-home)
+- [turn based combat pdf game](https://liambronjames.itch.io/turn-based-combat-pdf-game)
