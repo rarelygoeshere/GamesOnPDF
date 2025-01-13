@@ -8,4 +8,5 @@ A repository listing games that can be played on a PDF file. If the game is a po
 - [DoomPDF - Doom](https://doompdf.pages.dev/doom.pdf)/[Github](https://github.com/ading2210/doompdf) Only works on Chrome<br>
 
 # Original games
-- [Undying Dusk](https://lucas-c.itch.io/undying-dusk)
+- [Undying Dusk](https://lucas-c.itch.io/undying-dusk)/[Github](https://github.com/Lucas-C/undying-dusk)
+- [Alone on Rivers Red](https://faeexe.itch.io/alone-on-rivers-red)
