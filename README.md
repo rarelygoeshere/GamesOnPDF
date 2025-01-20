@@ -5,6 +5,7 @@ A repository listing games that can be played on a PDF file. If the game is a po
 # Games port
 ## Github
 - [pdftris - Tetris](https://th0mas.nl/2025/01/12/tetris-in-a-pdf/)/[Github](https://github.com/ThomasRinsma/pdftris) Published on January 5, 2025
+- [PDF Snake - Snake](https://argo.larrys.tech/snake_resume.pdf) Published on January 2025
 - [horrifying-pdf-experiments - Breakout](https://cdn.jsdelivr.net/gh/osnr/horrifying-pdf-experiments@master/breakout.pdf)/[Github](https://github.com/osnr/horrifying-pdf-experiments) Published on June 27, 2016; Only works on Chrome
 - [DoomPDF - Doom](https://doompdf.pages.dev/doom.pdf)/[Github](https://github.com/ading2210/doompdf) Published on February 1, 2012; Only works on Chrome
 
