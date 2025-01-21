@@ -8,6 +8,8 @@ A repository listing games that can be played on a PDF file. If the game is a po
 - [PDF Snake - Snake](https://argo.larrys.tech/snake_resume.pdf) Published on January 2025
 - [horrifying-pdf-experiments - Breakout](https://cdn.jsdelivr.net/gh/osnr/horrifying-pdf-experiments@master/breakout.pdf)/[Github](https://github.com/osnr/horrifying-pdf-experiments) Published on June 27, 2016; Only works on Chrome
 - [DoomPDF - Doom](https://doompdf.pages.dev/doom.pdf)/[Github](https://github.com/ading2210/doompdf) Published on February 1, 2012; Only works on Chrome
+### [mwenge](https://github.com/mwenge)
+- [Iridis Alpha Theory - Iridis Alpha](https://iridisalpha.com/)/[Github](https://github.com/mwenge/iatheory/releases/tag/0.1)
 
 # Original games
 ## Itch.io
