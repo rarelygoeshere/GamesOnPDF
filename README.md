@@ -20,9 +20,12 @@ A repository listing games that can be played on a PDF file. If the game is a po
 
 # Original games
 ## Itch.io
-- [turn based combat pdf game](https://liambronjames.itch.io/turn-based-combat-pdf-game) Published on July 08, 2024
-- [Alone on Rivers Red](https://faeexe.itch.io/alone-on-rivers-red) Published on January 31, 2022
+### [Lucas-C](https://lucas-c.itch.io/)
 - [Undying Dusk](https://lucas-c.itch.io/undying-dusk)/[Github](https://github.com/Lucas-C/undying-dusk) Published on April 24, 2021
+### [fae.exe](https://faeexe.itch.io/)
+- [Alone on Rivers Red](https://faeexe.itch.io/alone-on-rivers-red) Published on January 31, 2022
+
+- [turn based combat pdf game](https://liambronjames.itch.io/turn-based-combat-pdf-game) Published on July 08, 2024
 - [My Last Sandwich](https://vsioneithr.itch.io/my-last-sandwich) Published on April 15, 2016
 - [Chicken Wants to Cross the River](https://vsioneithr.itch.io/chicken-wants-to-cross-the-river) Published on April 14, 2016
 - [Frog's Adventure to Home](https://vsioneithr.itch.io/frogs-adventure-to-home) Published on April 12, 2016
