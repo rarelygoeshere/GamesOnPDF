@@ -32,9 +32,13 @@ A repository listing games that can be played on a PDF file. If the game is a po
 - [Journey to the Dragon's Stomach](https://vsioneithr.itch.io/journey-to-the-dragons-stomach) Published on April 13, 2016
 - [Frog's Adventure to Home](https://vsioneithr.itch.io/frogs-adventure-to-home) Published on April 12, 2016
 ## Game Jolt
+### [Pokragor](https://gamejolt.com/@Pokragor)
 - [El asesinato en Windmill Hill](https://gamejolt.com/games/windmill_hill/812270) Published on June 3, 2023
+### [FlextonGamesKIDS](https://gamejolt.com/@FlextonGamesKIDS)
 - [Earth Force](https://gamejolt.com/games/Ef/510386) Published on January 7, 2021
+### [HeyItsJoeB](https://gamejolt.com/@HeyItsJoeB)
 - [Scantrons Are For The Weak!](https://gamejolt.com/games/scantrons-are-for-the-weak/132994) Published on March 14, 2016
+### T
 - [A Line Knight and A Cave of Mushrooms](https://gamejolt.com/games/a-line-knight-and-a-cave-of-mushrooms/72271) Published on June 7, 2015
 - [A Knight and A Line](https://gamejolt.com/games/a-knight-and-a-line/61788) Published on April 21, 2015
 - [Princess's Suspicious Socks](https://gamejolt.com/games/princess-s-suspicious-socks/58335) Published on April 6, 2015
