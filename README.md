@@ -45,3 +45,7 @@ A repository listing games that can be played on a PDF file. If the game is a po
 - [Count The 1!](https://gamejolt.com/games/count-the-1/31325) Published on August 4, 2014
 - [A Tale of Magical Healing Candy](https://gamejolt.com/games/a-tale-of-magical-healing-candy/22129) Published on February 4, 2014
 - [Haruta's Adventure: Doors of Trap Dungeon](https://gamejolt.com/games/haruta-s-adventure-doors-of-trap-dungeon/21670) Published on January 26, 2014
+# Sources
+A list of sources I visited to obtain the content for this repo. It is not an exhaustive list.
+- [Shaarli](https://chezsoi.org/shaarli/)
+
