@@ -48,4 +48,5 @@ A repository listing games that can be played on a PDF file. If the game is a po
 # Sources
 A list of sources I visited to obtain the content for this repo. It is not an exhaustive list.
 - [Shaarli](https://chezsoi.org/shaarli/)
-
+# See also
+- [UnorthodoxFun](https://github.com/rarelygoeshere/UnorthodoxFun) An encyclopedia of games in bizarre and unconventional mediums
