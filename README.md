@@ -38,7 +38,7 @@ A repository listing games that can be played on a PDF file. If the game is a po
 - [Earth Force](https://gamejolt.com/games/Ef/510386) Published on January 7, 2021
 ### [HeyItsJoeB](https://gamejolt.com/@HeyItsJoeB)
 - [Scantrons Are For The Weak!](https://gamejolt.com/games/scantrons-are-for-the-weak/132994) Published on March 14, 2016
-### [Squeka](https://gamejolt.com/@Squeka)
+### [Squeka](https://gamejolt.com/@Squeka)/[Blog](http://squeka-dev.blogspot.com/)
 - [A Line Knight and A Cave of Mushrooms](https://gamejolt.com/games/a-line-knight-and-a-cave-of-mushrooms/72271) Published on June 7, 2015
 - [A Knight and A Line](https://gamejolt.com/games/a-knight-and-a-line/61788) Published on April 21, 2015
 - [Princess's Suspicious Socks](https://gamejolt.com/games/princess-s-suspicious-socks/58335) Published on April 6, 2015
@@ -47,8 +47,10 @@ A repository listing games that can be played on a PDF file. If the game is a po
 - [Dr. Modula's Cure](https://gamejolt.com/games/dr-modula-s-cure/36326) Published on October 21, 2014
 - [Little Bubble's Little Adventure](https://gamejolt.com/games/little-bubble-s-little-adventure/34124) Published on September 9, 2014
 - [Count The 1!](https://gamejolt.com/games/count-the-1/31325) Published on August 4, 2014
-- [A Tale of Magical Healing Candy](https://gamejolt.com/games/a-tale-of-magical-healing-candy/22129) Published on February 4, 2014
-- [Haruta's Adventure: Doors of Trap Dungeon](https://gamejolt.com/games/haruta-s-adventure-doors-of-trap-dungeon/21670) Published on January 26, 2014
+- [Choices to Small Changes](http://squeka-dev.blogspot.com/2014/05/choices-to-small-changes.html)/[Download link](https://www.dropbox.com/scl/fi/3ox4a5icnqddki8hi3r8c/Choices-to-Small-Changes.pdf?rlkey=hc4lj52lrfm6r1e27pmp9up1z&e=1) Published on May 4, 2014
+- [Penguin & Nightcap](http://squeka-dev.blogspot.com/2014/03/penguin-and-nightcap.html)/[GameJolt](https://gamejolt.com/games/penguin-nightcap/24518) Published on March 29, 2014
+- [A Tale of Magical Healing Candy](http://squeka-dev.blogspot.com/2014/02/a-tale-of-magical-healing-candy.html)/[GameJolt](https://gamejolt.com/games/a-tale-of-magical-healing-candy/22129) Published on February 4, 2014
+- [Haruta's Adventure: Doors of Trap Dungeon](http://squeka-dev.blogspot.com/2014/01/harutas-adventure-doors-of-trap-dungeon.html)/[Gamejolt](https://gamejolt.com/games/haruta-s-adventure-doors-of-trap-dungeon/21670) Published on January 26, 2014
 # Sources
 A list of sources I visited to obtain the content for this repo. It is not an exhaustive list.
 - [Shaarli](https://chezsoi.org/shaarli/)
