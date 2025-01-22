@@ -39,11 +39,20 @@ A repository listing games that can be played on a PDF file. If the game is a po
 ### [HeyItsJoeB](https://gamejolt.com/@HeyItsJoeB)
 - [Scantrons Are For The Weak!](https://gamejolt.com/games/scantrons-are-for-the-weak/132994) Published on March 14, 2016
 ### [Squeka](https://gamejolt.com/@Squeka)/[Blog](http://squeka-dev.blogspot.com/)
-- [A Line Knight and A Cave of Mushrooms](https://gamejolt.com/games/a-line-knight-and-a-cave-of-mushrooms/72271) Published on June 7, 2015
-- [A Knight and A Line](https://gamejolt.com/games/a-knight-and-a-line/61788) Published on April 21, 2015
-- [Princess's Suspicious Socks](https://gamejolt.com/games/princess-s-suspicious-socks/58335) Published on April 6, 2015
+- [A Boy and A Sun](http://squeka-dev.blogspot.com/2016/01/a-boy-and-a-sun.html)/[Download link](https://www.dropbox.com/scl/fi/95t6r5018b57wv5rv9k18/A-Boy-and-A-Sun.zip?rlkey=uzl4tlz2mza02rwklx1abimhj&e=1&dl=0) Published on January 5, 2016
+- [Twin Clouds of Fortune](http://squeka-dev.blogspot.com/2015/12/twin-clouds-of-fortune.html)/[Download link](https://www.dropbox.com/scl/fi/mlyzck2y2psvrvsrb2e9m/Clouds-Twin-Of-Fortune.zip?rlkey=wnh9ujjz8leasif16pdfjo8oc&e=1&dl=0) Published on December 5, 2015
+- [Neon Sign Fixer](http://squeka-dev.blogspot.com/2015/11/neon-sign-fixer.html)/[Download link](https://www.dropbox.com/scl/fi/rrmxq5hbpjfziy89sy36u/Neon-Sign-Fixer.zip?rlkey=cur8k2z9tu8jvkygxwfnhltit&e=1&dl=0) Published on October 5, 2015 
+- [Flag Capture Text Adventure](http://squeka-dev.blogspot.com/2015/10/flag-capture-text-adventure.html)/[Download link](https://www.dropbox.com/scl/fi/xw0391n2j3a70fps8pe89/Flag-Capture-Text-Adventure.zip?rlkey=0sgt8a1k3wcm5zdpm1dby3t3j&e=1&dl=0) Published on September 5, 2015
+- [Win or Lose Button 2](http://squeka-dev.blogspot.com/2015/08/win-or-lose-button-2.html)/[Download link](https://www.dropbox.com/scl/fi/18u1y318248h6joisynrc/Win-or-Lose-Button-2.pdf?rlkey=up0ddv3f20llibvuhk9f0ouam&e=1) Published on August 5, 2015 
+- [A Line Knight and A Cave of Mushrooms](http://squeka-dev.blogspot.com/2015/06/a-line-knight-and-a-cave-of-mushrooms.html)/[GameJolt](https://gamejolt.com/games/a-line-knight-and-a-cave-of-mushrooms/72271) Published on June 7, 2015
+- [This Person is Hungry](http://squeka-dev.blogspot.com/2015/06/this-person-is-hungry.html)/[Download link](https://www.dropbox.com/scl/fi/40tdkcwuk226teq97p6e3/This-Person-Is-Hungry.pdf?rlkey=e4zuf9vtt1crakgdu9e8ofpbp&e=1) Published on June 5, 2015
+- [A Knight and A Line](http://squeka-dev.blogspot.com/2015/04/a-knight-and-a-line.html)/[GameJolt](https://gamejolt.com/games/a-knight-and-a-line/61788) Published on April 21, 2015
+- [Princess's Suspicious Socks](http://squeka-dev.blogspot.com/2015/04/princesss-suspicious-socks.html)/[GameJolt](https://gamejolt.com/games/princess-s-suspicious-socks/58335) Published on April 6, 2015
 - [Penguin & Nightcap](https://gamejolt.com/games/penguin-nightcap/24518) Published on March 29, 2015
-- [Count The Total Digits!](https://gamejolt.com/games/count-the-total-digits/52358) Published on March 5, 2015
+- [Count The Total Digits!](http://squeka-dev.blogspot.com/2015/03/count-the-total-digits.html)/[GameJolt](https://gamejolt.com/games/count-the-total-digits/52358) Published on March 5, 2015
+- [Choice to a Garbage](http://squeka-dev.blogspot.com/2015/02/choice-to-garbage.html)/[Download link](https://www.dropbox.com/scl/fi/db5z0wm8l92wyb70vdait/Choice-to-a-Garbage.pdf?rlkey=1n1sal98e2yhhmw0fhbwveln3&e=1) Published on February 4, 2015
+- [Duck's Battle](http://squeka-dev.blogspot.com/2015/01/ducks-battle.html)/[Download link](https://www.dropbox.com/scl/fi/vu559dugx1m4liyg8x5yg/Duck-sBattle.pdf?rlkey=o46wmcs3h7btjbd7johtpsvac&e=1) Published on January 4, 2015
+- [Remember the Pass Buttons!](http://squeka-dev.blogspot.com/2014/12/remember-the-pass-buttons.html)/[Download link](https://www.dropbox.com/scl/fi/rcf1rd4kpd50yz2e97yyz/Remember-the-Pass-Buttons.pdf?rlkey=en09roka87o22lan24a8rt0zs&e=1) Published on December 4, 2014
 - [Dr. Modula's Cure](http://squeka-dev.blogspot.com/2014/10/dr-modulas-cure.html)/[GameJolt](https://gamejolt.com/games/dr-modula-s-cure/36326) Published on October 21, 2014
 - [Little Bubble's Little Adventure](http://squeka-dev.blogspot.com/2014/09/little-bubbles-little-adventure.html)/[GameJolt](https://gamejolt.com/games/little-bubble-s-little-adventure/34124) Published on September 9, 2014
 - [Egg on Needle](http://squeka-dev.blogspot.com/2014/09/egg-on-needle.html)/[Download link](https://www.dropbox.com/scl/fi/k00aptuh8lckav4z0d5ia/Egg-On-Needle.pdf?rlkey=lqn2z7okgc8fskp2pvz232n4i&e=1) Published on September 4, 2014
