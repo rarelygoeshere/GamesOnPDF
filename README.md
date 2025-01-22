@@ -44,9 +44,11 @@ A repository listing games that can be played on a PDF file. If the game is a po
 - [Princess's Suspicious Socks](https://gamejolt.com/games/princess-s-suspicious-socks/58335) Published on April 6, 2015
 - [Penguin & Nightcap](https://gamejolt.com/games/penguin-nightcap/24518) Published on March 29, 2015
 - [Count The Total Digits!](https://gamejolt.com/games/count-the-total-digits/52358) Published on March 5, 2015
-- [Dr. Modula's Cure](https://gamejolt.com/games/dr-modula-s-cure/36326) Published on October 21, 2014
-- [Little Bubble's Little Adventure](https://gamejolt.com/games/little-bubble-s-little-adventure/34124) Published on September 9, 2014
-- [Count The 1!](https://gamejolt.com/games/count-the-1/31325) Published on August 4, 2014
+- [Dr. Modula's Cure](http://squeka-dev.blogspot.com/2014/10/dr-modulas-cure.html)/[GameJolt](https://gamejolt.com/games/dr-modula-s-cure/36326) Published on October 21, 2014
+- [Little Bubble's Little Adventure](http://squeka-dev.blogspot.com/2014/09/little-bubbles-little-adventure.html)/[GameJolt](https://gamejolt.com/games/little-bubble-s-little-adventure/34124) Published on September 9, 2014
+- [Egg on Needle](http://squeka-dev.blogspot.com/2014/09/egg-on-needle.html)/[Download link](https://www.dropbox.com/scl/fi/k00aptuh8lckav4z0d5ia/Egg-On-Needle.pdf?rlkey=lqn2z7okgc8fskp2pvz232n4i&e=1) Published on September 4, 2014
+- [Count The 1!](http://squeka-dev.blogspot.com/2014/08/count-the-1.html)/[GameJolt](https://gamejolt.com/games/count-the-1/31325) Published on August 4, 2014
+- [Win or Lose Button](http://squeka-dev.blogspot.com/2014/07/win-or-lose-button.html)/[Download link](https://www.dropbox.com/scl/fi/vr0jvb9s01e6ula3c80ap/Win-or-Lose-Button.pdf?rlkey=r9xh9uqhodm53j3bbr075q3ch&e=1) Published on July 4, 2014
 - [Choices to Small Changes](http://squeka-dev.blogspot.com/2014/05/choices-to-small-changes.html)/[Download link](https://www.dropbox.com/scl/fi/3ox4a5icnqddki8hi3r8c/Choices-to-Small-Changes.pdf?rlkey=hc4lj52lrfm6r1e27pmp9up1z&e=1) Published on May 4, 2014
 - [Penguin & Nightcap](http://squeka-dev.blogspot.com/2014/03/penguin-and-nightcap.html)/[GameJolt](https://gamejolt.com/games/penguin-nightcap/24518) Published on March 29, 2014
 - [A Tale of Magical Healing Candy](http://squeka-dev.blogspot.com/2014/02/a-tale-of-magical-healing-candy.html)/[GameJolt](https://gamejolt.com/games/a-tale-of-magical-healing-candy/22129) Published on February 4, 2014
