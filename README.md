@@ -6,7 +6,7 @@ A repository listing games that can be played on a PDF file. If the game is a po
 ## Github
 ### [ading2210](https://github.com/ading2210)
 - [DoomPDF - Doom](https://doompdf.pages.dev/doom.pdf)/[Github](https://github.com/ading2210/doompdf) Published on February 1, 2012; Only works on Chromium-based browsers
-- [LinuxPDF](https://github.com/ading2210/linuxpdf) Linux running inside a PDF file via a RISC-V emulator 
+- [LinuxPDF](https://linux.doompdf.dev/)/[Github](https://github.com/ading2210/linuxpdf) Linux running inside a PDF file via a RISC-V emulator 
 
 ### [ThomasRinsma](https://github.com/ThomasRinsma)
 - [pdftris - Tetris](https://th0mas.nl/2025/01/12/tetris-in-a-pdf/)/[Github](https://github.com/ThomasRinsma/pdftris) Published on January 5, 2025
