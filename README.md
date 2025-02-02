@@ -21,6 +21,9 @@ A repository listing games that can be played on a PDF file. If the game is a po
 
 ### [itisnotjord](https://github.com/itisnotjord)
 - [2048inPDF - 2048](https://github.com/itisnotjord/2048inPDF) Published on January 19, 2025
+
+### [rwarnking](https://github.com/rwarnking)
+- [PDF games](https://github.com/rwarnking/pdf-games)  Collection of mini-games that run in a PDF using latex and javascript 
 # Original games
 ## Itch.io
 ### [Lucas-C](https://lucas-c.itch.io/)
