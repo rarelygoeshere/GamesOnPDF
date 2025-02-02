@@ -20,7 +20,7 @@ A repository listing games that can be played on a PDF file. If the game is a po
 - [PDF Snake - Snake](https://argo.larrys.tech/snake_resume.pdf) Published on January 2025
 
 ### [itisnotjord](https://github.com/itisnotjord)
-- [2048inPDF](https://github.com/itisnotjord/2048inPDF) Published on January 19, 2025
+- [2048inPDF - 2048](https://github.com/itisnotjord/2048inPDF) Published on January 19, 2025
 # Original games
 ## Itch.io
 ### [Lucas-C](https://lucas-c.itch.io/)
